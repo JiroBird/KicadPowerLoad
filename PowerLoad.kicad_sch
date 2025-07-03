@@ -9226,7 +9226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Vertical"
+		(property "Footprint" "SuperTO247-3:TO-247-3(powirtab)"
 			(at 39.37 148.59 90)
 			(effects
 				(font
@@ -10142,7 +10142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Vertical"
+		(property "Footprint" "SuperTO247-3:TO-247-3(powirtab)"
 			(at 39.37 137.16 90)
 			(effects
 				(font
@@ -11158,7 +11158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Vertical"
+		(property "Footprint" "SuperTO247-3:TO-247-3(powirtab)"
 			(at 39.37 170.18 90)
 			(effects
 				(font
@@ -13405,7 +13405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-247-3_Vertical"
+		(property "Footprint" "SuperTO247-3:TO-247-3(powirtab)"
 			(at 39.37 158.75 90)
 			(effects
 				(font
